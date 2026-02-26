@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name":"Theme customizer","version": "1.0","description": "An extension to put your favorite theme on any website","permissions": ["storage"],"host_permissions": ["<all_urls>"],
+  "content_scripts":[{
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+      }],
+  "icons": {
+  "16":"icons/TC16.png","48":"icons/TC48.png","128":"icons/TC128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Theme Changer",
+    "default_icon": {
+      "16": "icons/TC16.png","32":"icons/TC32.png"
+    }
+  }
+}
