@@ -14,15 +14,6 @@ A simple and powerful Chrome extension that lets you change the color theme of a
 
 ---
 
-## 📸 Screenshots
-
-```markdown
-<img width="332" height="454" alt="preview1" src="https://github.com/user-attachments/assets/6ea2b022-5b03-443e-bdc2-db0a1b070e9f" />
-
-```
-
----
-
 ## 🚀 Installation (Easy)
 
 1. Go to the **[Releases](https://github.com/kianmehhr-big/Theme-customizer/releases)** page.
